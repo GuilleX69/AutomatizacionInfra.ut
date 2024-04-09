@@ -1,12 +1,16 @@
-## Scripts de Automatización de Infraestructura
+# Automatización de Infraestructura
 
-Estos son los scripts de la materia Automatización de Infraestructura impartida por el Profesor Omar Cruz:
+Este repositorio contiene scripts utilizados en la materia de Automatización de Infraestructura impartida por el Profesor Omar Cruz.
 
-Partial #1 folder
-- `automation-1.py`: Recopilacion de los scripts vistos en clase en el parcial #1.
-Partial #2 folder
+## Contenido
+
+### Parcial #1
+- `automation-1.py`: Recopilación de los scripts vistos en clase durante el Parcial #1.
+
+### Parcial #2
 - `Ejercicio1-Examen-Partial2.sh`: Script para el Ejercicio 1 del Examen Parcial #2.
-- `automation-2.py`: Recopilacion de los scripts vistos en clase en el parcial #2.
-- `Archivo.csv`: recurso proporcionado en clase.
-Partial #3
-- `automation-3.py`: Recopilacion de los Scripts vistos en clase en el parcial #3.
+- `automation-2.py`: Recopilación de los scripts vistos en clase durante el Parcial #2.
+- `Archivo.csv`: Recurso proporcionado en clase.
+
+### Parcial #3
+- `automation-3.py`: Recopilación de los scripts vistos en clase durante el Parcial #3.
