@@ -14,3 +14,7 @@ Este repositorio contiene scripts utilizados en la materia de Automatización de
 
 ### Parcial #3
 - `automation-3.py`: Recopilación de los scripts vistos en clase durante el Parcial #3.
+  #### Examen #3
+  - `api-deployer.py`: Script del Examen Parcial #3.
+  - `api-consumer.py`: Script del Examen Parcial #3.
+
